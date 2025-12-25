@@ -11,5 +11,15 @@ body
   margin-right: auto;
 }
 html{
-  background: rgb(112, 141, 70);
+  background: rgb(140, 149, 128);
+}
+
+
+.box{
+  background-color: rgb(169, 127, 127);
+}
+.inner-boxes{
+  background-color: rgb(154, 111, 125);
+ 
+  
 }
